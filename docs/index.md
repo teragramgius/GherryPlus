@@ -3,36 +3,36 @@
 PESTEL analysis allows us to examine the macro-environmental factors that can impact the found target profiles. Here's a breakdown of these factors for each profile:
 
 Elderly individuals with memory loss problems:
-**Political**: Government policies and regulations related to healthcare services, elder care, and social security benefits.
-**Economic**: Economic stability, income, and affordability of healthcare services and assisted living facilities.
-**Sociocultural**: Social attitudes towards aging and dementia, awareness and understanding of memory loss conditions, and the role of the family in caregiving.
-**Technological**: The availability and adoption of technology for healthcare, communication, and assisted living.
-**Environmental**: The impact of environmental factors on cognitive health, such as air pollution and noise levels.
-**Legal**: Legal protections and rights for elderly individuals, such as anti-discrimination laws and the right to accessible healthcare.
+- **Political**: Government policies and regulations related to healthcare services, elder care, and social security benefits.
+- **Economic**: Economic stability, income, and affordability of healthcare services and assisted living facilities.
+- **Sociocultural**: Social attitudes towards aging and dementia, awareness and understanding of memory loss conditions, and the role of the family in caregiving.
+- **Technological**: The availability and adoption of technology for healthcare, communication, and assisted living.
+- **Environmental**: The impact of environmental factors on cognitive health, such as air pollution and noise levels.
+- **Legal**: Legal protections and rights for elderly individuals, such as anti-discrimination laws and the right to accessible healthcare.
 
 Family caregivers:
-**Political**: Government policies and regulations on caregiving, including tax credits, subsidies, and other support mechanisms for family caregivers.
-**Economic**: Economic stability and employment opportunities for caregivers, and the financial burden of caregiving.
-**Sociocultural**: Societal attitudes towards caregiving, and the balance between work, caregiving, and personal life.
-**Technological**: The availability and adoption of technology for communication, healthcare management, and caregiving support.
-**Environmental**: The impact of environmental factors on caregiver stress and well-being, such as living conditions and access to green spaces
-**Legal**: Legal protections and rights for caregivers, such as labor laws, family leave policies, and access to respite care.
+- **Political**: Government policies and regulations on caregiving, including tax credits, subsidies, and other support mechanisms for family caregivers.
+- **Economic**: Economic stability and employment opportunities for caregivers, and the financial burden of caregiving.
+- **Sociocultural**: Societal attitudes towards caregiving, and the balance between work, caregiving, and personal life.
+- **Technological**: The availability and adoption of technology for communication, healthcare management, and caregiving support.
+- **Environmental**: The impact of environmental factors on caregiver stress and well-being, such as living conditions and access to green spaces
+- **Legal**: Legal protections and rights for caregivers, such as labor laws, family leave policies, and access to respite care.
 
 Professional caregivers:
-**Political**: Government policies and regulations on professional caregiving, such as licensing requirements and certification standards.
-**Economic**: Economic stability, employment opportunities, and wages for professional caregivers.
-**Sociocultural**: Societal attitudes towards professional caregiving and the role of caregivers in the healthcare system.
-**Technological**: The availability and adoption of technology for caregiving, healthcare management, and professional development.
-**Environmental**: Workplace conditions, safety standards, and the impact of environmental factors on caregiver stress and well-being.
-**Legal**: Legal protections and rights for professional caregivers, such as labor laws, workplace safety regulations, and access to professional development opportunities.
+- **Political**: Government policies and regulations on professional caregiving, such as licensing requirements and certification standards.
+- **Economic**: Economic stability, employment opportunities, and wages for professional caregivers.
+- **Sociocultural**: Societal attitudes towards professional caregiving and the role of caregivers in the healthcare system.
+- **Technological**: The availability and adoption of technology for caregiving, healthcare management, and professional development.
+- **Environmental**: Workplace conditions, safety standards, and the impact of environmental factors on caregiver stress and well-being.
+- **Legal**: Legal protections and rights for professional caregivers, such as labor laws, workplace safety regulations, and access to professional development opportunities.
 
 Healthcare professionals:
-**Political**: Government policies and regulations related to the healthcare system, medical research, and funding for dementia care.
-**Economic**: Economic stability, funding for healthcare services, and professional opportunities for healthcare professionals specializing in memory loss problems.
-**Sociocultural**: Societal attitudes towards healthcare professionals, dementia, and the role of healthcare providers in addressing memory loss problems.
-**Technological**: The availability and adoption of technology for diagnostics, treatment, and healthcare management in memory loss care.
-**Environmental**: The impact of environmental factors on healthcare professionals' work environment, stress levels, and well-being.
-**Legal**: Legal protections and rights for healthcare professionals, such as malpractice laws, licensing requirements, and professional ethics guidelines.
+- **Political**: Government policies and regulations related to the healthcare system, medical research, and funding for dementia care.
+- **Economic**: Economic stability, funding for healthcare services, and professional opportunities for healthcare professionals specializing in memory loss problems.
+- **Sociocultural**: Societal attitudes towards healthcare professionals, dementia, and the role of healthcare providers in addressing memory loss problems.
+- **Technological**: The availability and adoption of technology for diagnostics, treatment, and healthcare management in memory loss care.
+- **Environmental**: The impact of environmental factors on healthcare professionals' work environment, stress levels, and well-being.
+- **Legal**: Legal protections and rights for healthcare professionals, such as malpractice laws, licensing requirements, and professional ethics guidelines.
 By considering the PESTEL analysis for each profile, you can better understand the external factors that influence their experiences and needs, helping you to design an application that is responsive to these factors and more effectively addresses the challenges faced by both caregivers and elderly individuals with memory loss problems.
 
 
@@ -74,18 +74,21 @@ Elderly individuals with memory loss problems:
 - Attitudes: Acceptance or denial of their memory loss condition, optimism or pessimism towards treatment and care.
 - Interests: Hobbies, pastimes, and activities that can be adapted to their cognitive abilities, such as gardening, music, or arts and crafts.
 - Lifestyles: Active or sedentary, social or isolated, and varying levels of independence in daily living.
+
 Family caregivers:
 - Personality traits: Empathetic, nurturing, responsible, patient, or stressed
 - Values: Family, duty, loyalty, and work-life balance
 - Attitudes: Acceptance or resentment of their caregiving role, optimism or pessimism about the future of their loved one's condition
 - Interests: Hobbies and pastimes that can provide relaxation, stress relief, and social connection, such as exercise, reading, or support groups
 - Lifestyles: Balancing caregiving with personal life, work, and other responsibilities, with varying levels of support from family, friends, and community resources.
+
 Professional caregivers:
 - Personality traits: Compassionate, patient, responsible, resilient, or overwhelmed
 - Values: Professionalism, duty, empathy, and personal growth
 - Attitudes: Positive or negative perceptions of their work environment and the challenges they face, optimism or pessimism about their ability to make a difference in their patients' lives
 - Interests: Hobbies and pastimes that promote relaxation, stress relief, and personal growth, such as exercise, meditation, or professional development courses
 - Lifestyles: Balancing work demands with personal life, self-care, and professional development
+
 Healthcare professionals:
 - Personality traits: Analytical, empathetic, detail-oriented, dedicated, or overworked
 - Values: Professionalism, expertise, patient-centered care, and evidence-based practice
