@@ -19,3 +19,16 @@ the healthcare of elderly people.
   - project management, chat with team, deadline, add people for tasks, add label
 - Asana
   - increaasing percentual of execution, timeline view
+
+
+
+## CAREGIVER PAIN POINTS
+- medication management
+- personal care (such as bathing, dressing, and grooming)
+- preparing meals
+- housekeeping
+- transportation
+- providing companionship
+
+solution:
+- switch people on the app
