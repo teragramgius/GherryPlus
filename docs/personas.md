@@ -30,5 +30,19 @@ the healthcare of elderly people.
 - transportation
 - providing companionship
 
-solution:
-- switch people on the app
+
+1. Di3culty in keeping track of multiple tasks and appointments for different elderly individuals they
+are caring for.
+  - solution: switch people on the app
+
+
+2. Challenges in coordinating and communicating with other caregivers or family members who are also involved in caring for the same elderly individual(s).
+  - add phone number: chat group for people that care about the elderly
+
+3.  Dealing with uneWpected or emergency situations that require urgent attention, such as sudden illnesses or accidents.
+4.  Sanaging the emotional and psychological toll of caregiving, including stress, burnout, and feelings of isolation or loneliness.
+  - kinda of Apple Health: distant monitoring 
+
+
+
+
