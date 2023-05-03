@@ -95,13 +95,11 @@ It is crucial to consider the legal aspects of content, including:
 
 
 
-
-
 ### Metadata:
 
 Metadata is essential for organizing and structuring the application to ensure a seamless user experience. In the context of your app, there are two primary types of metadata to consider: structural metadata and descriptive metadata.
 
-#### Structural Metadata:
+**Structural Metadata:**
 Structural metadata refers to information about the organization and structure of the app, such as hierarchy, document position, relationships between content elements, and navigation.
 For your app, the structural metadata could include:
 
@@ -118,4 +116,9 @@ For your app, the descriptive metadata could include:
 2. Descriptions: Brief descriptions that provide an overview of the content and its purpose.
 3. Tags or keywords: Relevant tags or keywords associated with each content element to support search functionality and content discovery.
 4. Categories: Assigning content elements to appropriate categories based on their subject matter or purpose, which also helps with structuring the app
+
+
+# CAO=S design model
+
+
 
