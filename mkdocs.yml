@@ -3,15 +3,7 @@ site_url:
 
 
 nav:
-    - Home:
-    - P.E.S.T.E.L. analysis: 
-    - DEFINE: 
-    - DISCOVER: 
-    - DEFINE: 
-    - DEFINE: 
-    - DEVELOP: 
-    - DELIVER: 
-    - Bibliography:
+    - Home: index.md
 
 site_author: Trenchi, Alessandra - Grieco, Giusy - Casado, Juan Pablo
 site_description: documentation for the UX project
