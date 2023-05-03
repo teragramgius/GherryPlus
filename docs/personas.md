@@ -14,7 +14,8 @@ the healthcare of elderly people.
   - Team building option
 - Trello
 - Any.do
+  - calendar, daily planner
   - "simple", "build for people"
   - project management, chat with team, deadline, add people for tasks, add label
 - Asana
-
+  - increaasing percentual of execution, timeline view
