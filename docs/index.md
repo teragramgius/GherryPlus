@@ -1,3 +1,67 @@
 # ETHNOGRAPHIC RESEARCH AND SPECIFIC DOMAIN (P.E.S.T.E.L.)
+# P.E.S.T.E.L. ANALYSIS
+PESTEL analysis allows us to examine the macro-environmental factors that can impact the found target profiles. Here's a breakdown of these factors for each profile:
 
+Elderly individuals with memory loss problems:
+**Political**: Government policies and regulations related to healthcare services, elder care, and social security benefits.
+**Economic**: Economic stability, income, and affordability of healthcare services and assisted living facilities.
+**Sociocultural**: Social attitudes towards aging and dementia, awareness and understanding of memory loss conditions, and the role of the family in caregiving.
+**Technological**: The availability and adoption of technology for healthcare, communication, and assisted living.
+**Environmental**: The impact of environmental factors on cognitive health, such as air pollution and noise levels.
+**Legal**: Legal protections and rights for elderly individuals, such as anti-discrimination laws and the right to accessible healthcare.
+
+Family caregivers:
+**Political**: Government policies and regulations on caregiving, including tax credits, subsidies, and other support mechanisms for family caregivers.
+**Economic**: Economic stability and employment opportunities for caregivers, and the financial burden of caregiving.
+**Sociocultural**: Societal attitudes towards caregiving, and the balance between work, caregiving, and personal life.
+**Technological**: The availability and adoption of technology for communication, healthcare management, and caregiving support.
+**Environmental**: The impact of environmental factors on caregiver stress and well-being, such as living conditions and access to green spaces
+**Legal**: Legal protections and rights for caregivers, such as labor laws, family leave policies, and access to respite care.
+
+Professional caregivers:
+**Political**: Government policies and regulations on professional caregiving, such as licensing requirements and certification standards.
+**Economic**: Economic stability, employment opportunities, and wages for professional caregivers.
+**Sociocultural**: Societal attitudes towards professional caregiving and the role of caregivers in the healthcare system.
+**Technological**: The availability and adoption of technology for caregiving, healthcare management, and professional development.
+**Environmental**: Workplace conditions, safety standards, and the impact of environmental factors on caregiver stress and well-being.
+**Legal**: Legal protections and rights for professional caregivers, such as labor laws, workplace safety regulations, and access to professional development opportunities.
+
+Healthcare professionals:
+**Political**: Government policies and regulations related to the healthcare system, medical research, and funding for dementia care.
+**Economic**: Economic stability, funding for healthcare services, and professional opportunities for healthcare professionals specializing in memory loss problems.
+**Sociocultural**: Societal attitudes towards healthcare professionals, dementia, and the role of healthcare providers in addressing memory loss problems.
+**Technological**: The availability and adoption of technology for diagnostics, treatment, and healthcare management in memory loss care.
+**Environmental**: The impact of environmental factors on healthcare professionals' work environment, stress levels, and well-being.
+**Legal**: Legal protections and rights for healthcare professionals, such as malpractice laws, licensing requirements, and professional ethics guidelines.
+By considering the PESTEL analysis for each profile, you can better understand the external factors that influence their experiences and needs, helping you to design an application that is responsive to these factors and more effectively addresses the challenges faced by both caregivers and elderly individuals with memory loss problems.
+
+
+By investigating the field of caregivers and elderly people, the results on the targets are the following.
+Elderly individuals with memory loss problems:
+Age: 65 and older.
+Medical condition: Diagnosed with mild cognitive impairment, Alzheimer's disease, or other forms of dementia.
+Living situation: Living independently, in assisted living facilities, or with family members.
+Social activity level: Varying levels of social engagement, ranging from highly active to socially isolated.
+Technology proficiency: Varying levels of comfort and experience with digital technology, ranging from novice to advanced users.
+
+Family caregivers:
+Age: 25 and older.
+Relationship: Caring for a parent, spouse, or another close family member with memory loss problems.
+Employment status: Full-time, part-time, or unemployed.
+Caregiving role: Primary or secondary caregiver, providing assistance with daily tasks, medication management, and/or emotional support.
+Technology proficiency: Varying levels of comfort and experience with digital technology, ranging from novice to advanced users.
+
+Professional caregivers:
+Age: 18 and older.
+Employment: Working in home care, assisted living facilities, nursing homes, or specialized memory care units.
+Qualifications: Certified nursing assistants, home health aides, or other relevant certifications.
+Caregiving experience: Varying levels of experience, from new caregivers to seasoned professionals.
+Technology proficiency: Varying levels of comfort and experience with digital technology, ranging from novice to advanced users.
+
+Healthcare professionals:
+Age: 25 and older.
+Profession: Geriatricians, neurologists, psychiatrists, psychologists, or other healthcare professionals involved in the care of elderly individuals with memory loss problems.
+Work setting: Hospitals, private practices, outpatient clinics, or other relevant healthcare settings.
+Role: Diagnosing, treating, or managing memory loss problems in elderly individuals, or providing support and resources to caregivers.
+Technology proficiency: Varying levels of comfort and experience with digital technology, ranging from novice to advanced users.
 
