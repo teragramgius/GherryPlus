@@ -65,3 +65,30 @@ Work setting: Hospitals, private practices, outpatient clinics, or other relevan
 Role: Diagnosing, treating, or managing memory loss problems in elderly individuals, or providing support and resources to caregivers.
 Technology proficiency: Varying levels of comfort and experience with digital technology, ranging from novice to advanced users.
 
+# PSYCHOGRAPHIC FACTORS FOR EACH PROFILE
+Here's a breakdown of psychographic factors for each profile:
+
+Elderly individuals with memory loss problems:
+- Personality traits: Adaptable, resilient, patient, or anxious.
+- Values: Independence, family, security, dignity, and social connection.
+- Attitudes: Acceptance or denial of their memory loss condition, optimism or pessimism towards treatment and care.
+- Interests: Hobbies, pastimes, and activities that can be adapted to their cognitive abilities, such as gardening, music, or arts and crafts.
+- Lifestyles: Active or sedentary, social or isolated, and varying levels of independence in daily living.
+Family caregivers:
+- Personality traits: Empathetic, nurturing, responsible, patient, or stressed
+- Values: Family, duty, loyalty, and work-life balance
+- Attitudes: Acceptance or resentment of their caregiving role, optimism or pessimism about the future of their loved one's condition
+- Interests: Hobbies and pastimes that can provide relaxation, stress relief, and social connection, such as exercise, reading, or support groups
+- Lifestyles: Balancing caregiving with personal life, work, and other responsibilities, with varying levels of support from family, friends, and community resources.
+Professional caregivers:
+- Personality traits: Compassionate, patient, responsible, resilient, or overwhelmed
+- Values: Professionalism, duty, empathy, and personal growth
+- Attitudes: Positive or negative perceptions of their work environment and the challenges they face, optimism or pessimism about their ability to make a difference in their patients' lives
+- Interests: Hobbies and pastimes that promote relaxation, stress relief, and personal growth, such as exercise, meditation, or professional development courses
+- Lifestyles: Balancing work demands with personal life, self-care, and professional development
+Healthcare professionals:
+- Personality traits: Analytical, empathetic, detail-oriented, dedicated, or overworked
+- Values: Professionalism, expertise, patient-centered care, and evidence-based practice
+- Attitudes: Positive or negative perceptions of the healthcare system and the challenges they face in treating memory loss problems, optimism or pessimism about advancements in research and treatment options
+- Interests: Hobbies and pastimes that promote relaxation, stress relief, and intellectual stimulation, such as reading, research, or attending conferences
+- Lifestyles: Balancing work demands with personal life, self-care, and professional development
