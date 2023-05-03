@@ -3,7 +3,9 @@ site_url:
 
 
 nav:
-    - Home: index.md
+    - Ethnographic research: index.md
+    - Stakeholder analysis: stakeholders.md
+    - Personas: personas.md
 
 site_author: Trenchi, Alessandra - Grieco, Giusy - Casado, Juan Pablo
 site_description: documentation for the UX project
