@@ -41,7 +41,7 @@ www.alzheimer-aima.it/mappaservizi/emiliaromagna.html
 
 
 
-## 1: Non perdiamo la testa, noprofit, Via Mazzini, 67 - since 2009
+## 2: Non perdiamo la testa, noprofit, Via Mazzini, 67 - since 2009
 ### Open on Friday, 9.30am-11.30am and Tuesday, 3.30pm-5.30pm
 ### Tel 349 6283434 	 
 **[INITIATIVES&others]**
@@ -54,6 +54,21 @@ www.alzheimer-aima.it/mappaservizi/emiliaromagna.html
 **[MATERIALS]**
 - Libro per la memoria (non available)
 - Courses for caregivers: both for practical and psychological support
+
+
+## 5: ANFFAS Onlus - Associazione Nazionale Famiglie di Disabili Intellettivi e/o Relazionali
+### Via Luigi Rasi, 14 - 40127 BOLOGNA Telefono: 051.097 1975
+**[INITIATIVES&others]**
+1. “Accendiamo i riflettori” è l'iniziativa di Anffas Nazionale dedicata a fratelli e sorelle di persone con disabilità, appartenenti alla rete Anffas e non, con l’obiettivo di coinvolgerli in un percorso di reciproca conoscenza ed ascolto.
+2. Progetti per combattere la discriminazione.
+3. 
+
+
+
+
+
+
+
 
 
 
