@@ -54,21 +54,22 @@ Technology adoption barriers: Cognitive decline, vision or hearing impairments, 
 
 Family caregivers:
 Basic to advanced computer skills: Family caregivers may have varying levels of computer skills, including experience with email, word processing, spreadsheets, and internet browsing.
-Smartphone and tablet usage: Many family caregivers are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms to stay connected with loved ones and manage caregiving tasks.
-Caregiving apps and tools: Some family caregivers may be familiar with caregiving-specific apps and tools designed to help with medication management, appointment scheduling, or remote monitoring of loved ones.
-Digital communication: Family caregivers may rely heavily on digital communication methods to coordinate care, access resources, and connect with support networks.
+- Smartphone and tablet usage: Many family caregivers are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms to stay connected with loved ones and manage caregiving tasks.
+- Caregiving apps and tools: Some family caregivers may be familiar with caregiving-specific apps and tools designed to help with medication management, appointment scheduling, or remote monitoring of loved ones.
+- Digital communication: Family caregivers may rely heavily on digital communication methods to coordinate care, access resources, and connect with support networks.
 
 Professional caregivers:
 Basic to advanced computer skills: Professional caregivers may have varying levels of computer skills, including experience with email, word processing, spreadsheets, and internet browsing, depending on their job requirements and personal interests.
-Smartphone and tablet usage: Professional caregivers are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms to stay connected and manage their work.
-Healthcare technology: Some professional caregivers may have experience using electronic health records, medication management systems, or other technology specific to their work environment.
-Caregiving apps and tools: Professional caregivers may have experience with caregiving-specific apps and tools designed to help with daily tasks, communication, and care coordination.
+- Smartphone and tablet usage: Professional caregivers are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms to stay connected and manage their work.
+- Healthcare technology: Some professional caregivers may have experience using electronic health records, medication management systems, or other technology specific to their work environment.
+- Caregiving apps and tools: Professional caregivers may have experience with caregiving-specific apps and tools designed to help with daily tasks, communication, and care coordination.
 
 Healthcare professionals:
 Advanced computer skills: Healthcare professionals are likely to have advanced computer skills, including experience with email, word processing, spreadsheets, internet browsing, and specialized software specific to their field.
-Smartphone and tablet usage: Healthcare professionals are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms for both professional and personal purposes.
-Medical technology: Healthcare professionals may have experience with a range of medical technologies, such as diagnostic tools, imaging equipment, and electronic health record systems.
-Telemedicine and remote care: Some healthcare professionals may be familiar with telemedicine and remote care technologies, enabling them to provide care and support to patients and caregivers from a distance.
+- Smartphone and tablet usage: Healthcare professionals are likely to be proficient with smartphones and tablets, using messaging apps, video calls, and social media platforms for both professional and personal purposes.
+- Medical technology: Healthcare professionals may have experience with a range of medical technologies, such as diagnostic tools, imaging equipment, and electronic health record systems.
+- Telemedicine and remote care: Some healthcare professionals may be familiar with telemedicine and remote care technologies, enabling them to provide care and support to patients and caregivers from a distance.
+
 Understanding the technical competencies of each profile can help you design an application that is accessible and user-friendly for all target users, ensuring that the app meets their needs and preferences.
 
 
