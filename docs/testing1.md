@@ -1,16 +1,5 @@
-# USER RESEARCH
-#INTERVIEWS
-Our expectations
-List of questions
-Interviews report (names and structure)
-Drawn insights
-
-
-
-
-We are going to list our questions in English and than the original italian version since we conducted our survey in Italy.
-
 # Survey for Caregivers:
+We are going to list our questions in English and than the original italian version since we conducted our survey in Italy.
 
 # English version:
 1. What is your relationship to the person with memory problems? (e.g., spouse, child, sibling, professional caregiver)
