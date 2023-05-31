@@ -3,12 +3,15 @@ site_url:
 
 
 nav:
+
+    - Introduction : intro.md
     - Ethnographic research: index.md
-    - User Research: userinsights.md
     - Benchmark: benchmark.md
     - Stakeholder analysis: stakeholders.md
+    - User Research: userresearch.md
     - Personas: personas.md
     - Feasibility Study: feasibilitystudy.md
+    - Testing: testing.md
     - Design Proposal: designproposal.md
 
 site_author: Trenchi, Alessandra - Grieco, Giusy - Casado, Juan Pablo
