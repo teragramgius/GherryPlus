@@ -74,3 +74,6 @@ a. Technical skills: High proficiency with technology, experienced app user
 b. Needs: Medication management tools, care coordination, communication with healthcare professionals and family members
 
 c. Scenario: Susan uses the app to track medications and appointments for her patients, communicate with family members about their loved ones' well-being, and access resources on best practices for memory care.
+
+# SCENARIOS
+Emulation of the application usage for each persona above
