@@ -1,6 +1,6 @@
 # Design proposal
 
-## Proejct Management
+## ProJEct Management
 
 ### Long-term goals:
 
