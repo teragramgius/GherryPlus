@@ -8,6 +8,8 @@ of features that make them easy to use for caregivers. Their simplicity and orga
 easier for caregivers to keep track of tasks, appointments, and important information related to
 the healthcare of elderly people.
 
+INVESTIGATE EACH SEPARATELY!!
+INTERFACE ANALYSIS, INTUITIVITY, COMPLETENESS, overall USABILITY
 - Todoist 
   - *claim*: become focus organized and calm
   - Team building option
@@ -18,5 +20,7 @@ the healthcare of elderly people.
   - project management, chat with team, deadline, add people for tasks, add label
 - Asana
   - increaasing percentual of execution, timeline view
+
+
 
 # EXTEND
