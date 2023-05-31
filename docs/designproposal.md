@@ -1,19 +1,6 @@
 # Design proposal
 
-## ProJEct Management
-
-### Long-term goals:
-
-a. Establish the app as a leading solution for caregivers and elderly individuals with memory loss problems, providing comprehensive support and resources.
-
-b. Continuously improve the app based on user feedback and advances in memory care research, ensuring that the app remains relevant and effective.
-
-c. Expand the app's user base, targeting a diverse range of caregivers, elderly individuals, and healthcare professionals.
-
-d. Develop partnerships with healthcare organizations, assisted living facilities, and other relevant stakeholders to enhance the app's reach and credibility.
-
-e. Foster a strong user community, offering a supportive environment for individuals experiencing memory loss and their caregivers.
-
+## Project Management
 
 ### Short-term goals:
 
@@ -27,6 +14,22 @@ d. Launch the app in targeted markets and promote it to the intended user base.
 
 e. Monitor the app's performance, user engagement, and satisfaction, making improvements as needed.
 
+### Long-term goals:
+
+a. Establish the app as a leading solution for caregivers and elderly individuals with memory loss problems, providing comprehensive support and resources.
+
+b. Continuously improve the app based on user feedback and advances in memory care research, ensuring that the app remains relevant and effective.
+
+c. Expand the app's user base, targeting a diverse range of caregivers, elderly individuals, and healthcare professionals.
+
+d. Develop partnerships with healthcare organizations, assisted living facilities, and other relevant stakeholders to enhance the app's reach and credibility.
+
+e. Foster a strong user community, offering a supportive environment for individuals experiencing memory loss and their caregivers.
+
+### USER ANALYSIS
+Who do we expect as users?
+Why should users download the app?
+Why should they keep on using the app? 
 
 ### Budgets:
 
@@ -101,7 +104,7 @@ Metadata is essential for organizing and structuring the application to ensure a
 
 **Structural Metadata:**
 Structural metadata refers to information about the organization and structure of the app, such as hierarchy, document position, relationships between content elements, and navigation.
-For your app, the structural metadata could include:
+The structural metadata will include:
 
 1. Hierarchy: A top-level structure that organizes the app's content and features into categories and subcategories. For example, main sections like Medication Management, Cognitive Exercises, Social Connection, and Resources.
 2. Document position: The location of specific content elements within the app, such as articles, videos, or cognitive exercises.
