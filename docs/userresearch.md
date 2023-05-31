@@ -64,3 +64,30 @@ We are going to list our questions in English and than the original italian vers
 
 NB: It was essential to be sensitive and respectful when asking questions about personal health issues. 
 
+
+#INTERVIEWS RESULTS
+(example **to fill in)
+Interviewee A
+Name: Patrizia
+Age: 43
+Occupation: Freelancer
+Results:
+1. Activities she performs, memory level
+2. Familiarity with technology
+3. Interest in our product
+4. Specifically:
+a. Frequent performed activities
+b. General ideas on the project
+6. Pros of the service in her opinion
+7. Esplicited needs and desires
+
+# TESTING CONCLUSIONS
+Is the starting demographical idea validated?
+
+# main usecases emerged
+People need...
+
+# App alterations after testing evaluation
+
+
+
