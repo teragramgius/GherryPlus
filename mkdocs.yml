@@ -5,6 +5,7 @@ site_url:
 nav:
     - Ethnographic research: index.md
     - User Research: userinsights.md
+    - Benchmark: benchmark.md
     - Stakeholder analysis: stakeholders.md
     - Personas: personas.md
     - Feasibility Study: feasibilitystudy.md
