@@ -11,8 +11,10 @@ nav:
     - User Research: useranalysis.md
     - Personas: personas.md
     - Feasibility Study: feasibilitystudy.md
-    - Testing: testing.md
+    - Interviews: testing1.md
     - Design Proposal: designproposal.md
+    - Final testing: testing2.md
+    - Conclusions: conclusions.md
 
 site_author: Trenchi, Alessandra - Grieco, Giusy - Casado, Juan Pablo
 site_description: documentation for the UX project
