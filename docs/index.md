@@ -1,4 +1,4 @@
-# ETHNOGRAPHIC RESEARCH AND SPECIFIC DOMAIN (P.E.S.T.E.L.)
+# ETHNOGRAPHIC RESEARCH AND SPECIFIC DOMAIN 
 # P.E.S.T.E.L. ANALYSIS
 PESTEL analysis allows us to examine the macro-environmental factors that can impact the found target profiles. Here's a breakdown of these factors for each profile:
 
