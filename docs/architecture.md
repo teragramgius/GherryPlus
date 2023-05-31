@@ -12,8 +12,8 @@ grouping of these components into broader sections.
 CAO=S design model
 The CAO=S (Context, Activities, Objects, and Structure) model is a user-centered design framework that helps designers understand and plan the various elements of an interactive system. Based on the CAO=S design model, let's identify the concepts, actors, and operations for your application, aimed at caregivers and elderly people with memory loss problems.
 
-Concepts:
-
+# Concepts:
+Information entities managed by the system from the user point of view (ex. YOGA, EVENTS, terminology... ) EXPAND
 Personal profiles: Information about the elderly individuals and their caregivers, including contact details, medical history, and preferences Reminders: Scheduled alerts for medication, appointments, and daily activities Memory exercises: Interactive activities or games designed to improve cognitive function Social connections: Features that facilitate communication and interaction between users, such as messaging or video calls Resource library: Educational materials and resources for caregivers and elderly individuals, such as articles, videos, and support group information Actors:
 
 Direct actors: - End users: Caregivers (family and professional) and elderly individuals with memory loss problems
@@ -26,7 +26,7 @@ Update (edit): Modify existing information, such as updating personal profiles, 
 
 Delete: Remove information, such as deleting personal profiles, reminders, or social connections
 
-CRUD Matrix:
+# CRUD Matrix:
 
 Based on the concepts and operations, you can create a CRUD matrix to identify the individual operations performed by each direct actor on each concept: | Actor/Concept | Personal Profiles || Reminders | Memory Exercises || Social Connections | Resource Library | | --------------------------| ------------------||----------------|| ----------------||--------------------|------------------| | Family Caregivers |C, R, U, D ||C, R, U, D ||R || C, R, U, D | R | Professional Caregivers | C, R, U, D ||C, R, U, D ||R |C, R, U, D |R
 
@@ -50,11 +50,11 @@ Advanced search: Provide an advanced search option for users who want to perform
 
 Search analytics: Analyze search data to identify frequently searched terms or common user queries, and use this information to improve content organization, search functionality, and overall user experience.
 
-Context
+# Context
 
 Elderly individuals with memory loss problems and their caregivers (both family members and professionals) are the primary users. Users may access the app on various devices, such as smartphones, tablets, or computers. The app may be used in different environments, including homes, assisted living facilities, or healthcare centers.
 
-Activities
+# Activities
 
 Managing medications, including scheduling, reminders, and tracking adherence
 Engaging in cognitive exercises to help improve memory and cognitive function
@@ -76,3 +76,8 @@ Cognitive Exercises: Memory games, personalized recommendations, and progress tr
 Social Connection: Support groups, forums, direct messaging, and local events
 Resources: Educational materials, expert advice, and external resources
 Personal Section: User profile, settings, customization options, personalized content, and progress tracking
+
+# Operations
+Based on the CRUD model: 
+Create Read (view) Update (edit) Delete for each concept(previously defined).
+Individual operations performed by individual actors on individual concepts are discovered hrough a table, representing, for each actor, the Cartesian product between the operation types and the concepts. Our only actor is the end user, so we only need to provide one table. 
