@@ -65,7 +65,7 @@ We are going to list our questions in English and than the original italian vers
 NB: It was essential to be sensitive and respectful when asking questions about personal health issues. 
 
 
-#INTERVIEWS RESULTS
+# INTERVIEWS RESULTS
 (example **to fill in)
 Interviewee A
 Name: Patrizia
@@ -86,6 +86,9 @@ Is the starting demographical idea validated?
 
 # main usecases emerged
 People need...
+
+# OBSTACLES
+Data tendencies
 
 # App alterations after testing evaluation
 
