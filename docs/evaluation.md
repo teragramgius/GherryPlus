@@ -66,3 +66,17 @@
  Walkthrough:
  Assessment:
  Improvements:
+ 
+ # TESTING PROCESS
+ A dry run is performed prior to the execution of each test session, to verify if the tasks can
+actually be carried out on the wireframes.
+Context description:
+Results of a usability testing (table: for each task, level of success, efficiency, learnability, enjoyment
+SUS RESULTS for each person, example:
+# test results for Annika
+success, efficiency, learnability, enjoyment
+SUS table
+ANALYSIS OF THE RESULTS
+URGENCY CURVE
+IMPROVEMENTS
+
