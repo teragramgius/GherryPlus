@@ -14,7 +14,7 @@ Ability to send pictures to the Clock from the Helper device
 Premium version allows for voice messages, repeating reminders, and connection to more than one Receiver-device
 
 ### Sanvello
-[Website]((https://www.sanvello.com/))
+[Website] (https://www.sanvello.com/)
 
 Sanvello is a mental health app that provides therapeutic support through guided meditation, mindfulness activities, and mood tracking. It offers a free version as well as a premium subscription. In some areas, the app also offers telehealth services and provides live help 24 hours a day. It also includes tools for managing medication schedules, doctors appointments, and other important tasks. A message board is available for users to connect with other caregivers for support and advice.
 
@@ -27,7 +27,7 @@ Tools for managing medication schedules and doctors appointments
 Message board for caregiver support and advice
 
 ### MindMate
-[Website]((https://www.mindmate-app.com/))
+[Website] (https://www.mindmate-app.com/)
 MindMate is an app designed to keep the mind and body fit. It offers a daily activities plan that includes workouts, healthy recipes, games, and educational videos and articles. The app also features a collection of pictures of inspiring objects from various museums to help users reminisce and stay connected with loved ones.
 
 Key features:
@@ -39,7 +39,7 @@ Educational videos and articles
 Collection of pictures from museums for reminiscing
 
 ### eCare21
-[Website]((https://ecare21.com/))
+[Website] (https://ecare21.com/)
 
 eCare21 is a patient care solution that provides 24/7 real-time health monitoring. Through the use of a wearable fitness tracker, such as a FitBit or Apple watch, the app collects, compares, and analyzes data such as heart rate, physical activity, weight, calorie intake, medication adherence, and glucose levels. This data is used to assist caregivers and health providers in creating and improving care plans.
 
