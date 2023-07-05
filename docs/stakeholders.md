@@ -1,75 +1,79 @@
 # STAKEHOLDER ANALYSIS
 Stakeholders group includes any people or groups that influence and are impacted our project’s outcome, such as
-## internal stakeholders
-    Project manager
-    Team members
-    Senior management
-    Executives
-## external stakeholders
-    Clients - the professor + app we look up to
-    Partners
-    Investors - the professor
-    Suppliers
-    End users - the people we are going to interview
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Project Manager:
+- Importance: Oversees the project's execution, ensures its success, and manages resources.
+- Interests: Successful project completion, meeting objectives, and stakeholder satisfaction.
+- Influence: Makes key decisions, allocates resources, and guides the project team.
 
-*The position that you allocate to a stakeholder on the grid shows you the actions to take with them:*
+2. Team Members:
+- Importance: Actively involved in project execution and contribute to its success.
+- Interests: Project success, collaborative work environment, professional growth.
+- Influence: Contribute expertise, implement project tasks, and provide input.
 
-- **High power**, highly interested people: Fully engage these people, and make the greatest efforts to satisfy them.
-- **High power**, less interested people: Keep these stakeholders satisfied, but not so much that they become bored with your message.
-- **Low power**, highly interested people: Adequately inform these people, and talk to them to ensure that no major issues arise. People in this category can often be very helpful with the details of your project in a supportive role.
-- **Low power**, less interested people: Again, monitor these people, but don’t bore them with excessive communication.
+3. Senior Management:
+- Importance: Provides strategic direction, resources, and support for the project.
+- Interests: Project alignment with organizational goals, return on investment, and overall success.
+- Influence: Approves project plans, allocates resources, and makes strategic decisions.
 
+4. Executives:
+- Importance: Oversee the project and its alignment with organizational strategies.
+- Interests: High-level project outcomes, financial impact, and organizational reputation.
+- Influence: Set project priorities, provide guidance, and make strategic decisions.
 
-## 1: AIMA, Via Altura 3 - since 1985
-### Open on Monday, 9am-4pm
-**[WHAT]**
-*slogan: "Non dimenticare chi dimentica"* - ("Do not forget who forgets")
-The goal is to support those close to the patient, inform them and, above all, "train" them so that they can combine love for the affected person with the necessary competence to deal with all aspects of the disease.
-AIMA therefore works on different levels: **it works internally**, coordinating the association's policies and campaigns and supporting the activities of the local offices. **Externally**, AIMA has the task of influencing cultural policies to raise awareness of public opinion, through a widespread work of information and promotion on topics of interest; it has the task of influencing welfare policies, with careful monitoring of national and regional legislative activity, also in alliance with other large associations for the protection of rights. And it has the task of promoting biochemical research for an increasingly in-depth knowledge of the etiopathogenetic mechanisms of dementia, and of carrying out epidemiological and economic research itself aimed at an ever more in-depth knowledge of the disease.
+External Stakeholders:
+1. Clients - The Professor + App We Look Up To:
+- Importance: The client provides guidance, expectations, and support for the project.
+- Interests: Successful project delivery, meeting requirements, and achieving desired outcomes.
+- Influence: Provides project requirements, feedback, and assesses project outcomes.
 
+2. Partners:
+- Importance: Collaborate with the project team to achieve shared goals.
+- Interests: Project success, mutual benefits, and long-term partnerships.
+- Influence: Contribute resources, expertise, and support project goals.
 
-**[EVENTS&others]**
-1. Banca della Memoria = you can send audiovisual material to remember our dearest people who got no memory anymore
-2. In addition, three surveys on the costs of the disease were presented (the only Italian ones) elaborated with Censis (1999-2006-2016); set up a consultancy service for degree or diploma theses; worked on the environment, on psychological support for family members, on rehabilitation and on knowledge of pharmacological therapies, on day care centers and on new techniques for limiting restraint, on communication (two commercials were produced, directed by Dario Argento and Giuseppe Tornatore and a documentary "Vittorio, Capitan Pistone and all the others..." directed by Mara Consoli), on legislation (presenting questions and amendments, collecting signatures and petitions, and also leading a hunger strike for uniformity of care on the national territory); work was also done on health planning, again and again with the same spirit of service as the foundation. AIMA is currently part of the coordination group of the Interceptor Project (study project that has the objective of identifying the "marker" or "set of markers" capable of accurately predicting the conversion of the diagnosis of mild cognitive decline - Mild Cognitive Impairment, MCI - in Alzheimer's disease, after 3 years of follow-up, in order to identify early those patients who will appropriately benefit from new therapies currently being tested.Interceptor is funded by AIFA and the Ministry of Health) . He is part of the Ministry of Health, of the National Dementia Table (which elaborated the National Dementia Plan) and of the Ethics sub-table.
+3. Investors - The Professor:
+- Importance: Provide financial support and have a vested interest in project success.
+- Interests: Return on investment, project outcomes, and alignment with their vision.
+- Influence: Provide funding, monitor project progress, and expect accountability.
 
+4. Suppliers:
+- Importance: Provide necessary resources and materials for project execution.
+- Interests: Timely payment, clear requirements, and long-term business relationships.
+- Influence: Deliver required resources, maintain quality, and ensure timely availability.
 
-**[MATERIALS]**
-www.alzheimer-aima.it/mappaservizi/emiliaromagna.html
+5. End Users - The People We Are Going to Interview:
+- Importance: They will utilize the project's output and provide feedback.
+- Interests: Usable and valuable project outcomes that address their needs.
+- Influence: Provide insights, feedback, and influence the project's direction.
 
+6. AIMA, Via Altura 3 - since 1985:
+- Importance: A caregiving center providing support and information to those affected by dementia.
+- Interests: Advancement in dementia care, raising awareness, influencing cultural and welfare policies.
+- Influence: Coordination of association policies, promoting research, influencing legislative activities.
 
+7. Non perdiamo la testa, noprofit, Via Mazzini, 67 - since 2009:
+- Importance: A nonprofit organization offering support and activities for the elderly and caregivers.
+- Interests: Stimulating mental activities, caregiver support, promoting well-being.
+- Influence: Organizing activities, providing support services, and promoting knowledge.
 
+8. ANFFAS Onlus - Associazione Nazionale Famiglie di Disabili Intellettivi e/o Relazionali:
+- Importance: National association supporting families of individuals with intellectual and/or relational disabilities.
+- Interests: Combating discrimination, promoting inclusivity, supporting siblings of disabled individuals.
+- Influence: Organizing initiatives, advocating for rights, and providing support services.
 
-## 2: Non perdiamo la testa, noprofit, Via Mazzini, 67 - since 2009
-### Open on Friday, 9.30am-11.30am and Tuesday, 3.30pm-5.30pm
-### Tel 349 6283434 	 
-**[INITIATIVES&others]**
-1. UN'INVITO FUORI CASA - Un' invito ad anziani e caregiver per attività di stimolo della mente e ricreatrive per gli uni e informazione e sostegno per gli altri.
-2. LA PALESTRA DELLA MENTE - Un luogo dove allenare la memoria,le altre capacità cognitive, l'equilibrio psico-fisico.
-3. MEMOGITE - Visite a luoghi significativi di Bologna e dintorni con esercizi di memoria in loco.
-4. CORSO PER ASSISTENTI FAMILIARI - Offriamo assistenza a chi si deve prendere cura dei nostri amati anziani
-5. Trips, conferences, support
+Based on the stakeholder power and interest, the following actions can be considered:
 
-**[MATERIALS]**
-- Libro per la memoria (non available)
-- Courses for caregivers: both for practical and psychological support
+High power, highly interested people (e.g., Senior Management, Clients, AIMA):
+Fully engage these stakeholders by involving them in decision-making, providing regular updates, and addressing their concerns promptly. Collaborate closely with AIMA to incorporate their expertise and influence into the project.
 
+High power, less interested people (e.g., Executives):
+Keep these stakeholders satisfied by providing concise and relevant information, focusing on high-level outcomes, and involving them in key decisions when necessary.
 
-## 5: ANFFAS Onlus - Associazione Nazionale Famiglie di Disabili Intellettivi e/o Relazionali
-### Via Luigi Rasi, 14 - 40127 BOLOGNA Telefono: 051.097 1975
-**[INITIATIVES&others]**
-1. “Accendiamo i riflettori” è l'iniziativa di Anffas Nazionale dedicata a fratelli e sorelle di persone con disabilità, appartenenti alla rete Anffas e non, con l’obiettivo di coinvolgerli in un percorso di reciproca conoscenza ed ascolto.
-2. Progetti per combattere la discriminazione.
-3. 
+Low power, highly interested people (e.g., Team Members, End Users, Non perdiamo la testa):
+Adequately inform and involve these stakeholders by sharing project updates, seeking their input, and addressing any concerns they may have. Their expertise and support can be valuable in specific areas.
 
+Low power, less interested people (e.g., Suppliers, ANFFAS Onlus):
+Monitor these stakeholders and ensure smooth communication and collaboration without overwhelming them with excessive information. Maintain a positive relationship and address any concerns that may arise.
 
-
-
-
-
-
-
-
-
-
+By considering the interests and influence of these stakeholders, the project team can effectively engage with them and build strong relationships, ensuring their satisfaction and support throughout the project's lifecycle.
