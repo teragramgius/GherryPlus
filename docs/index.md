@@ -1,8 +1,8 @@
 ## ETHNOGRAPHIC RESEARCH AND SPECIFIC DOMAIN
-## P.E.S.T.E.L. ANALYSIS
+# P.E.S.T.E.L. ANALYSIS
 In the context of our ethnographic research in the specific domain, we conducted a PESTEL analysis to examine the macro-environmental factors that can impact the identified target profiles. Here's a breakdown of these factors for each profile:
 
-# Elderly individuals with memory loss problems:
+## Elderly individuals with memory loss problems:
 
 Political: Government policies and regulations related to healthcare services, elder care, and social security benefits.
 Economic: Economic stability, income, and affordability of healthcare services and assisted living facilities.
