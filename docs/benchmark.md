@@ -1,4 +1,58 @@
 # BENCHMARK
+Similar purpose applications:
+
+### MemoClock
+[Website](https://www.mindmate-app.com/)
+
+MemoClock is an app designed to assist people with dementia in keeping track of time. The app transforms any device into a day clock that displays the time, date, and weekday. The app requires installation on two devices: one device acts as the Clock, and the other as the Helper. The Helper can send messages and reminders to the Clock, which can include pictures, to assist the user in remembering important things.
+
+Key features:
+
+Displays time, date, and weekday
+Allows the Helper to send messages and reminders to the Clock
+Ability to send pictures to the Clock from the Helper device
+Premium version allows for voice messages, repeating reminders, and connection to more than one Receiver-device
+
+### Sanvello
+Website
+
+Sanvello is a mental health app that provides therapeutic support through guided meditation, mindfulness activities, and mood tracking. It offers a free version as well as a premium subscription. In some areas, the app also offers telehealth services and provides live help 24 hours a day. It also includes tools for managing medication schedules, doctors appointments, and other important tasks. A message board is available for users to connect with other caregivers for support and advice.
+
+Key features:
+
+Guided meditation and mindfulness activities
+Mood tracking
+Tools for managing medication schedules and doctors appointments
+24/7 live help
+Message board for caregiver support and advice
+
+MindMate
+Duck Duck Go](https://www.mindmate-app.com/ "The best search engine for privacy")
+MindMate is an app designed to keep the mind and body fit. It offers a daily activities plan that includes workouts, healthy recipes, games, and educational videos and articles. The app also features a collection of pictures of inspiring objects from various museums to help users reminisce and stay connected with loved ones.
+
+Key features:
+
+Daily activities plan for mental and physical fitness
+Workouts and healthy recipes
+Games for cognitive stimulation
+Educational videos and articles
+Collection of pictures from museums for reminiscing
+
+eCare21
+
+eCare21 is a patient care solution that provides 24/7 real-time health monitoring. Through the use of a wearable fitness tracker, such as a FitBit or Apple watch, the app collects, compares, and analyzes data such as heart rate, physical activity, weight, calorie intake, medication adherence, and glucose levels. This data is used to assist caregivers and health providers in creating and improving care plans.
+
+Key features:
+
+24/7 real-time health monitoring
+Data collection, comparison, and analysis
+Integration with wearable fitness trackers
+Assists in creating and improving care plans
+Single dashboard for viewing patient's medical history, activities, test results, etc.
+Communication between doctors, patients, and caregivers
+Integration with any device and EMR
+Automated billing and coding
+
 Benchmark Analysis: Our Caregiving App vs. Gherry - Care Circles Application
 
 ## Introduction:
