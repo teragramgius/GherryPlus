@@ -55,20 +55,44 @@ NB: It was essential to be sensitive and respectful when asking questions about 
 
 
 # INTERVIEWS RESULTS
-(example **to fill in)
-Interviewee A
-Name: Patrizia
-Age: 43
-Occupation: Freelancer
-Results:
-1. Activities she performs, memory level
-2. Familiarity with technology
-3. Interest in our product
-4. Specifically:
-a. Frequent performed activities
-b. General ideas on the project
-6. Pros of the service in her opinion
-7. Esplicited needs and desires
+
+### Interviewee A, Name: Patrizia, Age: 43, Occupation: Freelancer
+
+Caregiving-related questions:
+1. What is your relationship to the person with memory problems? - "I am the spouse of the person with memory problems."
+2. How long have you been caring for this individual? - "I have been caring for my spouse for the past 5 years."
+3. On a scale of 1 to 10, how challenging do you find your caregiving responsibilities? - "I would rate it as a 7. It can be quite challenging at times."
+4. What are the most difficult aspects of caregiving for someone with memory problems? - "Managing medications and coordinating medical appointments are the most difficult tasks for me. Providing emotional support is also challenging."
+5. How do you currently manage your caregiving tasks and responsibilities? - "I use calendars and reminders to keep track of important dates and tasks. I also receive support from other family members."
+6. What type of support or resources do you currently use to help with caregiving? - "I attend support groups and seek advice from healthcare professionals when needed. Online forums are also helpful for connecting with other caregivers."
+7. How comfortable are you with using technology to assist with caregiving tasks? - "I am fairly comfortable with using technology for caregiving tasks. I rely on various apps and tools to streamline my responsibilities."
+8. What features would you find most helpful in an app designed to support caregivers of people with memory problems? - "Medication reminders and care coordination tools would be extremely useful. It would also be great to have access to emotional support resources within the app."
+9. Are there any concerns or challenges you foresee in using an app to support your caregiving responsibilities? - "One concern I have is the complexity of the app. It should be user-friendly and intuitive to navigate."
+
+Memory-related questions:
+1. How long have you been experiencing memory problems? - "I have not been experiencing memory problems myself."
+2. If you feel comfortable sharing, have you received any medical evaluation or diagnosis related to your memory problems? - "N/A"
+3. What are the most challenging aspects of living with memory problems? - "From my observation, remembering appointments and managing medications seem to be the most challenging for my spouse. Maintaining social connections can also be difficult."
+4. What strategies or tools do you currently use to help with your memory problems? - "We use calendars, reminders, and rely on support from family members to assist with memory-related tasks."
+5. How comfortable are you with using technology to assist with daily tasks and memory support? - "I am open to using technology to assist with daily tasks and memory support. It can be helpful if it's user-friendly."
+6. What features would you find most helpful in an app designed to support people with memory problems? - "Medication reminders, appointment scheduling, and cognitive exercises would be beneficial."
+7. How important is it for you to maintain social connections and interact with others? - "Maintaining social connections is very important for a sense of well-being and avoiding isolation."
+8. Would you be interested in using an app that helps connect you with other people who have memory problems or similar experiences? - "Yes, connecting with others who share similar experiences would be valuable."
+9. Are there any concerns or challenges you foresee in using an app to support your memory and daily living needs? - "One concern could be the accessibility and usability of the app for individuals with memory problems. It should be designed with simplicity in mind."
+10. Do you have any additional suggestions or feedback for the development of an app to support people with memory problems? - "It would be great if the app could provide personalized recommendations and tips based on individual needs and preferences."
+
+1. **Familiarity with technology**. Patrizia is familiar with technology and regularly uses digital tools and applications for her freelance work. She is comfortable using smartphones, computers, and online platforms.
+2. **Interest in our product**.Patrizia is highly interested in your product. She recognizes the potential benefits it can offer to caregivers of people with memory problems and believes it can significantly enhance their lives.
+3. **Specifically**:
+   a. Frequent performed activities: Patrizia frequently performs tasks such as tracking and managing caregiving responsibilities, scheduling appointments, and ensuring medication adherence for her spouse.
+   b. General ideas on the project: Patrizia envisions an app that provides intuitive interfaces for managing caregiving tasks, offers personalized reminders and notifications, and incorporates features like care coordination, emotional support resources, and information sharing among caregivers.
+4. **Pros** of the service in her opinion
+5. Esplicited **needs** and desires. Clear and user-friendly interfaces that are accessible to individuals with varying levels of technological expertise.
+Customizable features to accommodate different caregiving situations and individual preferences.
+Integration with existing calendars, reminders, and communication tools to streamline caregiving tasks.
+Access to a supportive community or forum where caregivers can connect, share experiences, and seek advice. Regular updates and improvements to ensure the app remains relevant and effective in meeting caregivers' evolving needs.
+
+
 # TESTING THE INTERFACE
 # SUS ASSESSMENT
 We measure success (whether the user succeeds or not, with or without help), efficiency
@@ -80,7 +104,7 @@ Explain the CONTEXT of testing, what is being tested?
 Give TASKS to perform within the interface and evaluate them in a table with SUCCESS (possible outputs: Success with
 assistance, success, failure), EFFICIENCY (very high, High: easy backtracking, Low), LEARNABILITY, ENJOYMENT.
 
-PUT TEST RESULTS OF MULTIPLE PEOPLE
+
 
 SECOND TABLE: statements (I think that I would like to use this
 system frequently, I found the system unnecessarily
