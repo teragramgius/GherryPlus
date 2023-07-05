@@ -1,79 +1,48 @@
-# Feasibility Study
-## Contexts (of use) and Intended Users
+# Feasibility Study:
 
-### Contexts:
-a. Home setting: Elderly individuals living independently or with family members, and family caregivers assisting with daily tasks and activities
+## Contexts of Use:
+The application aims to assist caregivers in managing and supporting elderly individuals with memory loss problems by keeping track of their time events and movements in space. The application focuses on utilizing a map feature to track the location of the elderly within their house and provide support to caregivers. The application can be used in various contexts, including:
 
-b. Assisted living facilities and nursing homes: Professional caregivers and elderly individuals residing in these facilities
+1. In-Home Care: Caregivers providing care for elderly individuals living in their own homes or with family members.
+2. Assisted Living Facilities: Caregivers working in assisted living facilities, overseeing the movements and activities of elderly residents.
+3. Remote Caregiving: Caregivers providing support remotely, utilizing technology to monitor the time events and spatial movements of the elderly individuals.
 
-c. Healthcare settings: Healthcare professionals involved in the care of elderly individuals with memory loss problems
+## Intended Users:
+The intended users of the application are:
 
+1. Family Caregivers: These individuals are typically family members, such as spouses, children, siblings, or relatives, who take on the responsibility of caring for elderly individuals with memory loss problems. They are often closely involved in the daily activities and well-being of their loved ones.
 
-### Intended Users:
-a. Elderly individuals with memory loss problems
-
-b. Family caregivers
-
-c. Professional caregivers
-
-d. Healthcare professionals
-
+2. Professional Caregivers: Certified nursing assistants, home health aides, and other professionals working in assisted living facilities or providing in-home care for elderly individuals with memory problems. They are responsible for monitoring the movements and activities of the elderly individuals under their care.
 
 ## Usage Scenarios and Intended Tasks:
 
-### Usage Scenarios:
-a. Medication management: Reminders, dosage tracking, and medication refill notifications
+### Persona 1: Sarah - Family Caregiver
+Scenario: Sarah takes care of her elderly mother who has mild cognitive impairment and lives with her.
 
-b. Appointment scheduling: Calendar integration, reminders, and transportation arrangements
+Tasks:
+1. Using the application to set reminders for important time events, such as meal times, appointments, and recreational activities for her mother.
+2. Tracking her mother's movements within their home using the application's map feature to ensure she is safe and locate her if she wanders or gets disoriented.
+3. Receiving notifications from the application when her mother leaves a designated area in the house, helping Sarah prevent any potential accidents or incidents.
+4. Reviewing the map history to identify any patterns or changes in her mother's movements and discussing them with healthcare professionals for further assessment and support.
 
-c. Cognitive exercises: Memory games, puzzles, and other activities to support cognitive health
+### Persona 2: Mark - Professional Caregiver
+Scenario: Mark works as a caregiver in an assisted living facility, responsible for overseeing the movements and activities of elderly residents with memory loss problems.
 
-d. Care coordination: Communication tools, progress tracking, and care plan management
+Tasks:
+1. Using the application to monitor the whereabouts of the elderly residents within the facility using the map feature, ensuring their safety and well-being.
+2. Receiving real-time alerts when a resident enters restricted areas or deviates from their usual routine, enabling Mark to intervene and provide appropriate support.
+3. Communicating with other caregivers through the app's messaging feature to coordinate activities, share updates, and address any concerns related to the residents' movements and time events.
+4. Generating reports based on the collected data to assess the residents' activity levels, identify trends, and make informed decisions regarding their care plans.
 
-e. Emotional support: Access to support groups, resources, and tips for dealing with stress and emotional challenges
+### Persona 3: Lisa - Remote Caregiver
+Scenario: Lisa lives in a different city than her elderly father, who has Alzheimer's disease and lives alone in his own house. Lisa wants to ensure her father's safety and well-being while providing remote support.
 
-f. Social connection: Opportunities to connect with others experiencing similar issues, both virtually and in-person
+Tasks:
 
+1. Using the application to remotely monitor her father's movements within his house using the map feature, helping her stay informed about his activities and routines.
+2. Receiving notifications and alerts when her father deviates from his usual schedule or spends an unusually long time in a particular room, prompting Lisa to check on his well-being or contact local assistance if necessary.
+3. Setting reminders for her father's daily activities, such as taking medication, meal times, and important appointments, ensuring he follows his routine even when she is not physically present.
+4. Utilizing the app's communication features, such as video calls or messaging, to stay connected with her father, offer companionship, and provide emotional support from a distance.
+5. Sharing access to the application with other family members or local caregivers, enabling them to contribute to her father's care and stay informed about his time events and movements.
 
-### Intended Tasks:
-a. Schedule and track medications
-
-b. Manage appointments and important dates
-
-c. Complete cognitive exercises
-
-d. Coordinate care with family members, caregivers, and healthcare professionals
-
-e. Access emotional support and resources
-
-f. Foster social connections with peers
-
-
-## Personas:
-### Persona 1: Elizabeth, 75 years old, widowed, retired teacher, early-stage Alzheimer's disease
-
-a. Technical skills: Moderate proficiency with smartphones and tablets, limited experience with apps
-
-b. Needs: Medication reminders, cognitive exercises, social connections, emotional support, and assistance with daily tasks
-
-c. Scenario: Elizabeth uses the app to track her medications, schedule appointments, and participate in memory games. She connects with a local support group and finds comfort in sharing her experiences with others.
-
-### Persona 2: David, 45 years old, married, engineer, family caregiver for his mother with dementia
-
-a. Technical skills: Advanced proficiency with technology, experienced app user
-
-b. Needs: Care coordination tools, communication with healthcare professionals, emotional support, and resources
-
-c. Scenario: David uses the app to manage his mother's care plan, stay informed about her appointments, and coordinate with professional caregivers. He also accesses resources on coping with caregiver stress and participates in an online support group.
-
-
-### Persona 3: Susan, 32 years old, single, certified nursing assistant, professional caregiver in an assisted living facility
-
-a. Technical skills: High proficiency with technology, experienced app user
-
-b. Needs: Medication management tools, care coordination, communication with healthcare professionals and family members
-
-c. Scenario: Susan uses the app to track medications and appointments for her patients, communicate with family members about their loved ones' well-being, and access resources on best practices for memory care.
-
-# SCENARIOS
-Emulation of the application usage for each persona above
+These personas and scenarios highlight the usage of the application in tracking the time events and spatial movements of elderly individuals with memory loss problems. The third persona, Lisa, highlights the use of the application by remote caregivers who are physically separated from the elderly individual they are caring for. The map feature and real-time alerts help remote caregivers like Lisa stay connected, monitor their loved one's activities, and provide support and assistance from a distance. By providing caregivers with real-time information and alerts through the map feature, the application helps ensure the safety and well-being of the elderly while offering support and coordination among caregivers.
