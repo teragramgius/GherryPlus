@@ -21,7 +21,7 @@ Stakeholders group includes any people or groups that influence and are impacted
 - Interests: High-level project outcomes, financial impact, and organizational reputation.
 - Influence: Set project priorities, provide guidance, and make strategic decisions.
 
-External Stakeholders:
+# External Stakeholders:
 1. Clients - The Professor + App We Look Up To:
 - Importance: The client provides guidance, expectations, and support for the project.
 - Interests: Successful project delivery, meeting requirements, and achieving desired outcomes.
@@ -64,16 +64,16 @@ External Stakeholders:
 
 Based on the stakeholder power and interest, the following actions can be considered:
 
-High power, highly interested people (e.g., Senior Management, Clients, AIMA):
+## High power, highly interested people (e.g., Senior Management, Clients, AIMA):
 Fully engage these stakeholders by involving them in decision-making, providing regular updates, and addressing their concerns promptly. Collaborate closely with AIMA to incorporate their expertise and influence into the project.
 
-High power, less interested people (e.g., Executives):
+## High power, less interested people (e.g., Executives):
 Keep these stakeholders satisfied by providing concise and relevant information, focusing on high-level outcomes, and involving them in key decisions when necessary.
 
-Low power, highly interested people (e.g., Team Members, End Users, Non perdiamo la testa):
+## Low power, highly interested people (e.g., Team Members, End Users, Non perdiamo la testa):
 Adequately inform and involve these stakeholders by sharing project updates, seeking their input, and addressing any concerns they may have. Their expertise and support can be valuable in specific areas.
 
-Low power, less interested people (e.g., Suppliers, ANFFAS Onlus):
+## Low power, less interested people (e.g., Suppliers, ANFFAS Onlus):
 Monitor these stakeholders and ensure smooth communication and collaboration without overwhelming them with excessive information. Maintain a positive relationship and address any concerns that may arise.
 
 By considering the interests and influence of these stakeholders, the project team can effectively engage with them and build strong relationships, ensuring their satisfaction and support throughout the project's lifecycle.
