@@ -168,25 +168,24 @@ The context of testing is to evaluate the usability and user experience of the a
 Tasks and Evaluation:
 
 ### Caregiver A, Name: Patrizia, Age: 43, Occupation: Freelancer
-- Task 1: Set a medication reminder for a specific time.
+#### Task 1: Set a medication reminder for a specific time.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Low
   - Enjoyment: Neutral
-
-- Task 2: Schedule an appointment for the care recipient.
+#### Task 2: Schedule an appointment for the care recipient.
   - Success: Success
   - Efficiency: Very high
   - Learnability: Medium
   - Enjoyment: Positive
 
-- Task 3: Use the navigation feature to find a specific location.
+#### Task 3: Use the navigation feature to find a specific location.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
   - Enjoyment: Frustrating
 
-- Task 4: Use the app's facial recognition feature to identify a family member.
+#### Task 4: Use the app's facial recognition feature to identify a family member.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Low
@@ -194,25 +193,25 @@ Tasks and Evaluation:
 
 
 ### Caregiver B, Name: Laura, Age: 37, Occupation: Translator
-- Task 1: Set a medication reminder for a specific time.
+#### Task 1: Set a medication reminder for a specific time.
   - Success: Success
   - Efficiency: High
   - Learnability: High
   - Enjoyment: Positive
 
-- Task 2: Schedule an appointment for the care recipient.
+#### Task 2: Schedule an appointment for the care recipient.
   - Success: Success
   - Efficiency: Very high
   - Learnability: Medium
   - Enjoyment: Positive
 
-- Task 3: Use the navigation feature to find a specific location.
+#### Task 3: Use the navigation feature to find a specific location.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Medium
   - Enjoyment: Neutral
 
-- Task 4:  Use the app's facial recognition feature to identify a family member.
+#### Task 4:  Use the app's facial recognition feature to identify a family member.
   - Success: Success
   - Efficiency: High
   - Learnability: High
@@ -220,25 +219,25 @@ Tasks and Evaluation:
 
 
 ### Elder A, Name: Maria, Age: 78, Occupation: Retired, Mild Dementia
-- Task 1: Set a medication reminder for a specific time.
+#### Task 1: Set a medication reminder for a specific time.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Low
   - Enjoyment: Neutral
 
-- Task 2: Schedule an appointment for the care recipient.
+#### Task 2: Schedule an appointment for the care recipient.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Low
   - Enjoyment: Neutral
 
-- Task 3: Use the navigation feature to find a specific location.
+#### Task 3: Use the navigation feature to find a specific location.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
   - Enjoyment: Frustrating
 
-- Task 4:  Use the app's facial recognition feature to identify a family member.
+#### Task 4:  Use the app's facial recognition feature to identify a family member.
   - Success: Success with assistance
   - Efficiency: High (easy backtracking)
   - Learnability: Low
@@ -247,25 +246,25 @@ Tasks and Evaluation:
 
 
 ### Elder B, Name: Anna, Age: 88, Occupation: Retired, Alzheimer's
-- Task 1: Set a medication reminder for a specific time.
+#### Task 1: Set a medication reminder for a specific time.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
   - Enjoyment: Frustrating
 
-- Task 2: Schedule an appointment for the care recipient.
+#### Task 2: Schedule an appointment for the care recipient.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
   - Enjoyment: Frustrating
 
-- Task 3: Use the navigation feature to find a specific location.
+#### Task 3: Use the navigation feature to find a specific location.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
   - Enjoyment: Frustrating
 
-- Task 4:  Use the app's facial recognition feature to identify a family member.
+#### Task 4:  Use the app's facial recognition feature to identify a family member.
   - Success: Failure
   - Efficiency: Low
   - Learnability: Low
@@ -336,25 +335,25 @@ Users are asked to assign points from 10 to 1 to indicate how true the statement
 
 The results of the SUS assessment and usability testing provide valuable insights into the participants' experiences and perceptions of the app. Let's analyze the findings for each group of participants:
 
-1. Caregiver A, Patrizia:
+### 1. Caregiver A, Patrizia:
    - Patrizia found the system moderately complex but relatively easy to use.
    - She felt confident using the system but needed some assistance to set a medication reminder.
    - Patrizia had a positive overall experience with the app and expressed interest in using it frequently.
    - However, learnability was a challenge for her, indicating that some improvements in user onboarding and training may be necessary.
 
-2. Caregiver B, Laura:
+### 2. Caregiver B, Laura:
    - Laura found the system easy to use, efficient, and enjoyable.
    - She successfully completed all the tasks without assistance and had a positive overall experience.
    - Laura's responses indicate high learnability and satisfaction with the app's features.
    - These findings validate the usability of the app for caregivers like Laura.
 
-3. Elder A, Maria:
+### 3. Elder A, Maria:
    - Maria, who has mild dementia, faced challenges in providing precise responses.
    - She experienced difficulty in using the navigation feature, which led to a failure in the task.
    - Maria expressed the need for reminders and assistance in recognizing people and places.
    - These findings highlight the importance of simplicity and clarity in the app's design for users with memory problems.
 
-4. Elder B, Anna:
+### 4. Elder B, Anna:
    - Anna, who has Alzheimer's, struggled to give precise responses and expressed strong disagreement with the usability of the system.
    - She found the system complex, difficult to use, and cumbersome.
    - Anna felt that she needed significant support from a technical person and had low confidence in using the system.
@@ -384,8 +383,6 @@ Based on the testing results, the main use cases that have emerged include:
 - Navigation and location assistance
 - Facial recognition for identifying family members
 
-
-# OBSTACLES
 
 # OBSTACLES
 
