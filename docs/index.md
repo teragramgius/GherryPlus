@@ -114,3 +114,15 @@ In addition to demographic factors, understanding the psychographic factors for 
 5. **Lifestyles**: Balancing work demands with personal life, self-care, and professional development.
 
 By considering both demographic and psychographic factors, we can develop a comprehensive understanding of the target profiles, enabling us to design solutions that cater to their specific needs, preferences, and challenges.
+
+## Theoretical Background of Reference
+
+When designing an app, it is important to consider the diversity of users and their various characteristics and needs. However, it should be noted that designing for extreme users does not mean designing for every individual. The bell curve, often used to represent a distribution of traits in a population, illustrates that the central part includes a majority of users but may not cover the entire range of people and their unique circumstances.
+
+As designers, our role is to read the context and understand the needs of users, including those with extreme characteristics or limitations. However, it is crucial to recognize that human variety is vast, and people have their own adaptation strategies when faced with the complexities of the world and relationships.
+
+In the case of our caregiving app, we made a deliberate decision to focus on an extreme situation, such as individuals who struggle with managing their medications independently. This decision influenced the choice not to include local activities and workshops in the app, considering the cognitive and visual load it may impose on users.
+
+To ensure accessibility, we utilized the Color Contrast Checker tool to verify that the colors used in the app have sufficient contrast for readability. This tool helps us ensure that the app's design meets the necessary accessibility standards, making it easier for users to engage with the app's content.
+
+By acknowledging the diversity of users and considering extreme scenarios, we aim to create an inclusive and user-centered app that caters to the needs of a wide range of caregivers and elderly individuals.
