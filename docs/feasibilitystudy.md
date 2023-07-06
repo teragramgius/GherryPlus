@@ -16,21 +16,21 @@ The intended users of the application are:
 
 ## Usage Scenarios and Intended Tasks:
 
-### Persona 1: Sarah - Family Caregiver
-Scenario: Sarah takes care of her elderly mother who has mild cognitive impairment and lives with her.
+### Persona 1: Sara - Family Caregiver
+Scenario: Sara takes care of her elderly mother who has mild cognitive impairment and lives with her.
 
 Tasks:
 1. Using the application to set reminders for important time events, such as meal times, appointments, and recreational activities for her mother.
 2. Tracking her mother's movements within their home using the application's map feature to ensure she is safe and locate her if she wanders or gets disoriented.
-3. Receiving notifications from the application when her mother leaves a designated area in the house, helping Sarah prevent any potential accidents or incidents.
+3. Receiving notifications from the application when her mother leaves a designated area in the house, helping Sara prevent any potential accidents or incidents.
 4. Reviewing the map history to identify any patterns or changes in her mother's movements and discussing them with healthcare professionals for further assessment and support.
 
-### Persona 2: Mark - Professional Caregiver
-Scenario: Mark works as a caregiver in an assisted living facility, responsible for overseeing the movements and activities of elderly residents with memory loss problems.
+### Persona 2: Marco - Professional Caregiver
+Scenario: Marco works as a caregiver in an assisted living facility, responsible for overseeing the movements and activities of elderly residents with memory loss problems.
 
 Tasks:
 1. Using the application to monitor the whereabouts of the elderly residents within the facility using the map feature, ensuring their safety and well-being.
-2. Receiving real-time alerts when a resident enters restricted areas or deviates from their usual routine, enabling Mark to intervene and provide appropriate support.
+2. Receiving real-time alerts when a resident enters restricted areas or deviates from their usual routine, enabling Marco to intervene and provide appropriate support.
 3. Communicating with other caregivers through the app's messaging feature to coordinate activities, share updates, and address any concerns related to the residents' movements and time events.
 4. Generating reports based on the collected data to assess the residents' activity levels, identify trends, and make informed decisions regarding their care plans.
 
