@@ -4,23 +4,23 @@
 
 Caregivers play a vital role in supporting elderly individuals with memory loss problems. Their tasks typically include:
 
-Image and Place Reminders: Caregivers utilize the app's image and map features to help the elderly individuals remember important places, such as their home, favorite locations, or familiar landmarks. They can also use the app to associate images with specific people to assist in recognizing loved ones.
+1. Image and Place Reminders: Caregivers utilize the app's image and map features to help the elderly individuals remember important places, such as their home, favorite locations, or familiar landmarks. They can also use the app to associate images with specific people to assist in recognizing loved ones.
 
-Emotional Support: Caregivers provide emotional support to the elderly individuals, engaging in conversations, reminiscing, and fostering a sense of connection and well-being.
+2. Emotional Support: Caregivers provide emotional support to the elderly individuals, engaging in conversations, reminiscing, and fostering a sense of connection and well-being.
 
-Assistance with Daily Living: Caregivers help with activities of daily living, including personal care, meal planning, housekeeping, and transportation, ensuring the individuals' comfort, nutrition, and safety.
+3. Assistance with Daily Living: Caregivers help with activities of daily living, including personal care, meal planning, housekeeping, and transportation, ensuring the individuals' comfort, nutrition, and safety.
 
-Care Coordination: Caregivers coordinate with healthcare professionals, family members, and other caregivers involved in the care of the elderly individuals. They may schedule appointments, manage medical information, and communicate updates to ensure comprehensive care.
+4. Care Coordination: Caregivers coordinate with healthcare professionals, family members, and other caregivers involved in the care of the elderly individuals. They may schedule appointments, manage medical information, and communicate updates to ensure comprehensive care.
 
 
 ## Caregiver Pain Points:
 Caregivers experience various challenges and pain points in their role. Some specific pain points include:
 
-Memory Loss Management: Managing memory loss can be challenging for caregivers. Helping the elderly individuals remember important events, medication schedules, and personal information requires patience and creative strategies.
+1. Memory Loss Management: Managing memory loss can be challenging for caregivers. Helping the elderly individuals remember important events, medication schedules, and personal information requires patience and creative strategies.
 
-Communication and Coordination: Coordinating care among multiple caregivers, healthcare professionals, and family members can be complex. Ensuring effective communication and information sharing is crucial for providing consistent and holistic care.
+2. Communication and Coordination: Coordinating care among multiple caregivers, healthcare professionals, and family members can be complex. Ensuring effective communication and information sharing is crucial for providing consistent and holistic care.
 
-Emotional Impact: Caregiving can be emotionally demanding, causing stress, burnout, and feelings of isolation. Caregivers need support and self-care strategies to maintain their well-being while fulfilling their caregiving responsibilities.
+3. Emotional Impact: Caregiving can be emotionally demanding, causing stress, burnout, and feelings of isolation. Caregivers need support and self-care strategies to maintain their well-being while fulfilling their caregiving responsibilities.
 
 ## Technical Competencies of the Personas:
 The technical competencies of the personas defined earlier can vary based on their background, experience, and exposure to technology. Here is a breakdown of the technical competencies for each profile:
