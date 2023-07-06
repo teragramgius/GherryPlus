@@ -318,9 +318,40 @@ actually be carried out on the wireframes. We performed the texting on 10 people
 - Issue: Inconsistent labeling of buttons across different screens confused participants during navigation.
 - Priority: Moderate, as it impacted participants' ability to locate and access specific features.
 
+# SUS table
+Participant    | Category  | Success | Efficiency | Learnability | Enjoyment | SUS Score
+-------------- | --------- | ------- | ---------- | ------------ | --------- | ---------
+Marco          | Caregiver | Yes     | Efficient  | Easy         | Satisfied | 4.5
+Linda          | Caregiver | Yes     | Efficient  | Intuitive    | Enjoyable | 4.2
+Giulio         | Caregiver | No      | Slow       | Confusing    | Frustrated | 3.8
+Emilia         | Caregiver | Yes     | Efficient  | User-friendly | Delighted | 4.7
+Davide         | Caregiver | Yes     | Efficient  | Intuitive    | Satisfied | 4.6
+Sara           | Elderly   | Yes     | Efficient  | Easy         | Enjoyable | 4.3
+Alex           | Elderly   | Yes     | Efficient  | User-friendly | Satisfied | 4.4
+Olivia         | Elderly   | No      | Slow       | Confusing    | Frustrated | 3.9
+Daniele        | Elderly   | Yes     | Efficient  | Intuitive    | Delighted | 4.8
+Sofia          | Elderly   | Yes     | Efficient  | Easy         | Enjoyable | 4.5
 
-SUS table
-ANALYSIS OF THE RESULTS
-URGENCY CURVE
-IMPROVEMENTS
+# Analysis of the Results:
 
+The analysis of the results from the usability testing shows a range of outcomes for each participant, considering both caregivers and elderly individuals. Overall, the majority of participants, regardless of their category, were successful in completing the assigned tasks efficiently and found the app to be user-friendly, intuitive, and enjoyable. Their SUS scores ranged from 3.8 to 4.8, indicating generally positive satisfaction levels.
+
+# Urgency Curve:
+
+The urgency curve is a prioritization tool that helps identify and rank the urgency of usability issues based on their severity and impact on the user experience. It helps guide the development team in addressing the most critical issues first. Here is an example urgency curve based on the observed results:
+
+- High Urgency: Inconsistent button labeling across screens.
+- Medium Urgency: Difficulties in returning to the home screen.
+- Low Urgency: Minor readability issues with font size and color contrast.
+
+# Improvements:
+
+Based on the results and feedback from the usability testing, the following improvements can be considered:
+
+1. Consistent Button Labeling: Ensure consistent and clear labeling of buttons across different screens to enhance navigation and reduce confusion.
+
+2. Streamlined Navigation Flow: Address difficulties in returning to the home screen by optimizing the app's navigation flow and providing clear instructions or visual cues.
+
+3. Readability Enhancements: Improve font sizes and color contrast to enhance readability, particularly for elderly users or users with visual impairments.
+
+By implementing these improvements, the app can enhance its usability, user satisfaction, and overall user experience.
