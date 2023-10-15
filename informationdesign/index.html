@@ -1,0 +1,1036 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="documentation for the UX project">
+      
+      
+        <meta name="author" content="Trenchi, Alessandra - Grieco, Giusy - Casado, Juan Pablo">
+      
+      
+      
+        <link rel="prev" href="../architecture/">
+      
+      
+        <link rel="next" href="../evaluation/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.6">
+    
+    
+      
+        <title>Interaction Design - UX_caretaker</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.35e1ed30.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.356b1318.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="orange">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#information-design" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="UX_caretaker" class="md-header__button md-logo" aria-label="UX_caretaker" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            UX_caretaker
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Interaction Design
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="deep-purple" data-md-color-accent="orange"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="orange"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/teragramgius/UX_caretaker" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    UX_caretaker
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../intro/" class="md-tabs__link">
+        
+  
+    
+  
+  Introduction
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+    
+  
+  Ethnographic research
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../benchmark/" class="md-tabs__link">
+        
+  
+    
+  
+  Benchmark
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../stakeholders/" class="md-tabs__link">
+        
+  
+    
+  
+  Stakeholder analysis
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../useranalysis/" class="md-tabs__link">
+        
+  
+    
+  
+  User Research
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../personas/" class="md-tabs__link">
+        
+  
+    
+  
+  Personas
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../feasibilitystudy/" class="md-tabs__link">
+        
+  
+    
+  
+  Feasibility Study
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../testing/" class="md-tabs__link">
+        
+  
+    
+  
+  Interviews
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../designproposal/" class="md-tabs__link">
+        
+  
+    
+  
+  Design Proposal
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../architecture/" class="md-tabs__link">
+        
+  
+    
+  
+  Information Architecture
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+    
+  
+  Interaction Design
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../evaluation/" class="md-tabs__link">
+        
+  
+    
+  
+  Evaluation of design
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../conclusions/" class="md-tabs__link">
+        
+  
+    
+  
+  Conclusions
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="UX_caretaker" class="md-nav__button md-logo" aria-label="UX_caretaker" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    UX_caretaker
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/teragramgius/UX_caretaker" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    UX_caretaker
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../intro/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introduction
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ethnographic research
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../benchmark/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Benchmark
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../stakeholders/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Stakeholder analysis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../useranalysis/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    User Research
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../feasibilitystudy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Feasibility Study
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testing/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Interviews
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../designproposal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Proposal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../architecture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Information Architecture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Interaction Design
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Interaction Design
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#explanation" class="md-nav__link">
+    Explanation:
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../evaluation/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Evaluation of design
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../conclusions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Conclusions
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="information-design">INFORMATION DESIGN</h1>
+<p>Based on the app's focus on remembering through images and maps places and people for the elderly, and providing support for caregivers through Giada AI, the following system diagram can be proposed:</p>
+<pre><code>   +-----------------------+
+   |    User Interfaces    |
+   | (for caregivers, for  |
+   |        elders)        |
+   +-----------+-----------+
+               |
+               |
+        +------+------+   +-------------------+
+        | Application  |   |    External       |
+        |    Server    +---+    Systems        |
+        +------+------+   +--------+----------+
+               |                   |
+               |                   |
+  +------------+------------+      |
+  | User Management Services|      |
+  +------------+------------+      |
+               |                   |
+  +------------+------------+      |
+  | Data Processing Services|      |
+  +------------+------------+      |
+               |                   |
+  +------------+------------+      |
+  |  Database Servers       |      |
+  +-------------------------+      |
+                                   |
+  +------------------------------+ |
+  |         Cloud Storage        | |
+  +------------------------------+ |
+                                   |
+  +------------------------------+ |
+  |     Image Recognition API    | |
+  +------------------------------+ |
+                                   |
+  +------------------------------+ |
+  |   Mapping &amp; Geolocation API  | |
+  +------------------------------+ |
+                                   |
+  +------------------------------+ |
+  |    Giada AI Integration      | |
+  +------------------------------+ |
+</code></pre>
+<h2 id="explanation">Explanation:</h2>
+<ul>
+<li>User Interfaces: This component represents the user interfaces of the app, including separate interfaces for caregivers and elders. These interfaces allow users to interact with the app, access various features, and receive information and support.</li>
+<li>Application Server: The application server serves as the core component of the system. It handles the processing and logic of the application, coordinating interactions between different components.</li>
+<li>User Management Services: This component manages user authentication, registration, and profile management. It ensures that caregivers and elders can securely access and personalize their app experience.</li>
+<li>Data Processing Services: This component handles data processing tasks, including image recognition, mapping and geolocation services, and integration with Giada AI. It processes and analyzes data to provide personalized recommendations and support to caregivers and elders.</li>
+<li>Database Servers: The database servers store and manage the app's data, including user profiles, memory-related information, images, and caregiver support resources.</li>
+<li>External Systems: This component represents external systems that the app may integrate with, such as cloud storage for image and data storage, image recognition APIs for identifying people and objects, mapping and geolocation APIs for location-based features, and Giada AI integration for personalized support and assistance.</li>
+</ul>
+<h1 id="navigation-between-the-sections">NAVIGATION BETWEEN THE SECTIONS</h1>
+<p>To facilitate navigation between sections in the app, there is a clear and intuitive user interface.
+1. Menu/Navigation Bar: Include a menu or navigation bar that remains visible throughout the app, providing easy access to different sections. It is on top of the screen, allowing users to quickly switch between sections.
+2. Iconography and Visual Cues: Using icons and visual cues to represent each section and aid in recognition, they are visual indicators of the content or functionality associated with each section, making it easier for users to identify and select the desired section.
+3. Clear Labels and Descriptions: Clear and concise labels are provided for each section to convey its purpose. Additionally, consider adding brief descriptions or tooltips that provide additional context when users hover over or tap on a section, helping them understand the content or functionality offered in that section.
+4. Search Functionality: A search feature allows users to search for specific content or sections within the app. This can be particularly helpful when the app has a large amount of content or when users are looking for specific information.
+5. Search Functionality: Implement a search feature that allows users to search for specific content or sections within the app. This can be particularly helpful when the app has a large amount of content or when users are looking for specific information.
+6. Back and Home Buttons: Include back and home buttons or icons that allow users to easily navigate back to the previous screen or return to the app's home screen. This provides a familiar navigation pattern and helps users maintain their orientation within the app.</p>
+<h1 id="blueprints">BLUEPRINTS</h1>
+<h2 id="blueprint-1-giada-ai-conversations-and-assistance">Blueprint 1: Giada AI Conversations and Assistance</h2>
+<h3 id="description">Description:</h3>
+<p>This blueprint outlines the core functionality of the application, which revolves around engaging in conversations with Giada AI and accessing its valuable assistance and guidance. Giada AI has been trained to understand and respond to caregivers' queries and requests, providing personalized support along the caregiving journey.</p>
+<h3 id="features">Features:</h3>
+<ol>
+<li>
+<p>Conversations with Giada AI: Caregivers can engage in meaningful conversations with Giada AI, discussing various caregiving-related topics, seeking advice, and sharing their experiences.</p>
+</li>
+<li>
+<p>Query Understanding: Giada AI employs advanced natural language processing techniques to understand caregivers' queries accurately. It can decipher the context, intent, and sentiment behind caregivers' questions and requests.</p>
+</li>
+<li>
+<p>Personalized Assistance: Giada AI provides personalized assistance based on the caregiver's specific needs and challenges. It offers tailored suggestions, recommendations, and solutions to address the caregiver's concerns effectively.</p>
+</li>
+<li>
+<p>Caregiver Training and Education: Giada AI serves as a knowledge hub, providing caregivers with access to a vast database of training materials, educational resources, and expert advice. Caregivers can learn about memory loss, caregiving best practices, self-care techniques, and more.</p>
+</li>
+<li>
+<p>Emotional Support: Giada AI offers compassionate listening and emotional support to caregivers. It acknowledges their challenges and provides empathy and encouragement, acting as a virtual companion throughout the caregiving journey.</p>
+</li>
+</ol>
+<h2 id="blueprint-2-personalized-map-of-important-places">Blueprint 2: Personalized Map of Important Places</h2>
+<h3 id="description_1">Description:</h3>
+<p>This blueprint outlines the functionality of the personalized map feature, which is generated by Giada AI based on conversations, photographs, and other available data. The map highlights significant locations in the elder's life, enabling caregivers to recreate meaningful experiences and help their loved ones reconnect with cherished memories.</p>
+<h3 id="features_1">Features:</h3>
+<ol>
+<li>
+<p>Data Analysis: Giada AI analyzes conversations, photographs, and other relevant data to extract information about important places in the elder's life. It identifies locations that hold sentimental value and contribute to the elder's life story.</p>
+</li>
+<li>
+<p>Visual Map Representation: The application generates a personalized map that showcases the significant places in the elder's life. The map can display markers, labels, and other visual elements to highlight each location's importance and provide an intuitive and engaging user experience.</p>
+</li>
+<li>
+<p>Customization and Exploration: Caregivers can explore the personalized map and interact with the locations. They can view photos, descriptions, and associated memories, fostering a deeper understanding of the elder's life experiences and facilitating reminiscing sessions.</p>
+</li>
+<li>
+<p>Route Planning and Navigation: The map feature can include route planning and navigation capabilities, allowing caregivers to plan visits to important locations and navigate to them efficiently. This enhances the caregiving experience by facilitating meaningful outings and strengthening the bond between caregivers and elders.</p>
+</li>
+</ol>
+<h2 id="blueprint-3-timeline-of-important-life-events">Blueprint 3: Timeline of Important Life Events</h2>
+<h3 id="description_2">Description:</h3>
+<p>This blueprint outlines the functionality of the timeline feature, which is generated by Giada AI based on conversations and shared stories. The timeline visually represents the elder's important life events, milestones, achievements, and cherished moments, providing caregivers with a deeper understanding of their loved one's life and enabling personalized and compassionate care.</p>
+<h3 id="features_2">Features:</h3>
+<ol>
+<li>
+<p>Data Analysis and Event Extraction: Giada AI analyzes conversations and shared stories to extract information about the elder's important life events. It identifies milestones, achievements, and cherished moments that shape the elder's life journey.</p>
+</li>
+<li>
+<p>Visual Timeline Representation: The application generates a timeline that visually represents the elder's life events. The timeline can include chronological ordering, event descriptions, associated photos, and interactive elements for navigation and exploration.</p>
+</li>
+<li>
+<p>Caregiver Insight and Understanding: The timeline feature provides caregivers with valuable insights into the elder's life, fostering a deeper understanding of their experiences, values, and preferences. This understanding enables caregivers to provide more personalized and compassionate care, tailored to the elder's unique life story.</p>
+</li>
+<li>
+<p>Memory Preservation and Sharing: The timeline feature allows caregivers to preserve and share the elder's life events with family members and loved ones. Caregivers can curate and customize the timeline to create a digital keepsake that can be shared and cherished by the entire family.</p>
+</li>
+<li>
+<p>Event Details and Context: Each event in the timeline can provide additional details, such as descriptions, dates, and contextual information. This helps caregivers and family members gain a comprehensive understanding of the elder's life story and encourages meaningful conversations around shared memories.</p>
+</li>
+<li>
+<p>Reminiscing and Emotional Connection: The timeline serves as a powerful tool for reminiscing sessions, allowing caregivers to engage the elder in conversations about past events and shared experiences. This promotes emotional connection, stimulates memory recall, and enhances the overall well-being of the elder.</p>
+</li>
+<li>
+<p>Event Editing and Customization: Caregivers have the ability to edit and customize the events in the timeline. They can add new events, update existing ones, and attach photos or additional media to create a comprehensive and accurate representation of the elder's life.</p>
+</li>
+<li>
+<p>Integration with Other App Features: The timeline feature can be seamlessly integrated with other app functionalities, such as the personalized map and Giada AI conversations. This holistic integration enhances the caregiver's experience by providing a comprehensive view of the elder's life and facilitating seamless navigation between different aspects of caregiving.</p>
+</li>
+</ol>
+<p>By implementing these blueprints, our application aims to provide caregivers with a revolutionary caregiving experience. Through the power of Giada AI, personalized maps of important places, and timelines of important life events, caregivers can engage in meaningful conversations, recreate meaningful experiences, and provide personalized and compassionate care to their elderly loved ones. Together, these features create an innovative and supportive environment that transforms the caregiving journey.</p>
+<h1 id="wireframes">WIREFRAMES</h1>
+<p>For each subsection (profile page, activities, community chat)
+The more we go in depth the better it is</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../architecture/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Information Architecture">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Information Architecture
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../evaluation/" class="md-footer__link md-footer__link--next" aria-label="Next: Evaluation of design">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Evaluation of design
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.tabs", "navigation.top", "navigation.sections", "navigation.instant", "navigation.tracking", "navigation.expand", "navigation.path", "navigation.prune", "navigation.indexes", "navigation.footer", "toc.integrate", "toc.follow", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "content.tooltips"], "search": "../assets/javascripts/workers/search.f886a092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.aecac24b.min.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
